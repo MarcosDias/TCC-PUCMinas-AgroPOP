@@ -1,0 +1,14 @@
+settings.ini
+.vscode
+
+# backend
+/backend/base.db
+**/__pycache__
+**/migrations
+
+# frontend
+/frontend/*.log
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/node_modules/
