@@ -3,6 +3,7 @@ settings.ini
 
 # backend
 /backend/base.db
+/backend/static
 **/__pycache__
 **/migrations
 
